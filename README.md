@@ -6,11 +6,11 @@ Presentation is available here https://bit.ly/2ZinIv0
 
 Requirements
 
-  library(data.table)
-  library(caret)
-  library(ggplot2)
-  library(rpart.plot)
-  library(randomForest)
-  library(ipred)
-  library(adabag)
-  library(jpeg) -optional-
+  - library(data.table)
+  - library(caret)
+  - library(ggplot2)
+  - library(rpart.plot)
+  - library(randomForest)
+  - library(ipred)
+  - library(adabag)
+  - library(jpeg) -optional-
